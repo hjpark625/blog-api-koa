@@ -1,0 +1,20 @@
+# 제일 무거운거
+node_modules
+
+# 나만의 비밀
+.env
+
+# 각종 로그 파일
+*.log
+
+# 빌드 폴더
+dist
+
+# 에디터 설정 파일
+.idea
+.vscode
+
+# 빌드될때 무쓸모 파일
+.eslintrc
+.prettierrc
+.gitignore
